@@ -1,17 +1,12 @@
-# 1. 忽略 Streamlit 密钥文件 (绝对不能传!)
 .streamlit/secrets.toml
 
-# 2. 忽略 Python 缓存文件 (垃圾文件)
 __pycache__/
 *.pyc
 
-# 3. 忽略 ChromaDB 数据库 (这是本地数据，且体积大，不该传)
 chroma_db/
 
-# 4. 忽略历史记录 (包含隐私对话)
 history_data/
 
-# 5. 忽略虚拟环境 (如果你有的话)
 .venv/
 env/
 venv/
