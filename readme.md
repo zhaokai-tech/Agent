@@ -48,7 +48,7 @@ reading_Agent/
 Bash
 pip install -r requirements.txt
 2. 配置密钥
-在项目根目录下创建文件夹 .streamlit，并在其中新建文件 secrets.toml。 填入你的 API Key（这是项目运行的灵魂）：
+在项目根目录下创建文件夹 .streamlit，并在其中新建文件 secrets.toml。 填入你的 API Key：
 
 Ini, TOML
 # .streamlit/secrets.toml
