@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-V3-purple)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=zhaokai-tech/Agent&branch=main&mainModule=app.py)
 
 ## ✨ 核心功能
 
