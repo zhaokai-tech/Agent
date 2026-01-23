@@ -1,0 +1,8 @@
+streamlit
+openai
+chromadb
+pymupdf
+python-docx
+tavily-python
+numpy
+requests
